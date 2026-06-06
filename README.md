@@ -11,8 +11,9 @@
 
 A **production-ready REST API** for managing cybersecurity threat alerts with secure JWT authentication. Built with FastAPI for high performance and automatic API documentation.
 
-🔗 Links
-GitHub: threat-alert-api
+## 🔗 Links
+
+- **GitHub**: [threat-alert-api](https://github.com/Aikaksh-Singh-Routela/threat-alert-api)
 
 ### Key Features
 
